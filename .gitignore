@@ -30,3 +30,13 @@ npm-debug.log*
 /platforms
 /plugins
 /www
+capacitor.config.ts
+android/build.gradle
+android/capacitor.settings.gradle
+android/gradle.properties
+android/gradlew
+android/gradlew.bat
+android/settings.gradle
+android/variables.gradle
+android
+ios
